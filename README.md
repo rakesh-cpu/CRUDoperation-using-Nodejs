@@ -1,2 +1,2 @@
-# CURDoperation-using-Nodejs
-Built a API using nodejs which performs CURD operations using express 
+# CRUDoperation-using-Nodejs
+Built an API using node.js which performs CRUD operations using express 
